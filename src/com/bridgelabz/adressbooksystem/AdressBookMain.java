@@ -1,5 +1,5 @@
 package com.bridgelabz.adressbooksystem;
 
-public class AdressBookMain {
+public class AdressBookMAin {
 
 }
