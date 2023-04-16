@@ -1,10 +1,4 @@
-package com.bridgelabz.adressbooksystem;
-
-import java.util.Scanner;
-
-public class Contacts {
- 
-	Contacts contacts = new Contacts();
+Contacts contacts = new Contacts();
 	Scanner scanner = new Scanner(System.in);
 	List<Contacts> Contacts = new ArrayList<Contacts>();
 
@@ -127,8 +121,5 @@ public class Contacts {
 		} else {
 			System.out.println("Person contact not found.");
 		}
-	}
-
 	
-
-	
+}
